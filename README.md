@@ -1,6 +1,7 @@
 # Previous Portfolio
 
 <img width="1679" alt="pj_prev" src="https://github.com/user-attachments/assets/788776db-eb71-4b3e-a5f8-47b065c633d1" />
+[https://happy-ko-kamakura.github.io/portfolio/](https://happy-ko-kamakura.github.io/portfolio/)
 
 **Languages:**
 
